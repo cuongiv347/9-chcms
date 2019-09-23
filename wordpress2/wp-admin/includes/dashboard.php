@@ -525,6 +525,7 @@ function wp_dashboard_quick_press( $error_msg = false ) {
 			</label>
 			<input type="text" name="post_title" id="title" autocomplete="off" />
 		</div>
+                
 
 		<div class="textarea-wrap" id="description-wrap">
 			<label for="content"><?php _e( 'Content' ); ?></label>
